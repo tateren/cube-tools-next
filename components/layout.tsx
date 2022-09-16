@@ -12,11 +12,13 @@ const Layout = ({ children }: Props) => {
         <Link href="/">
           <a className="btn btn-ghost normal-case text-xl">TOP</a>
         </Link>
+        {/*
         <Link href="/commutator">
           <a className="btn btn-ghost normal-case text-xl">
             Commutator Expander
           </a>
         </Link>
+       */}
         <Link href="/three-style/edge">
           <a className="btn btn-ghost normal-case text-xl">Edge 3-Style</a>
         </Link>

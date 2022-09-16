@@ -12,11 +12,13 @@ const Home: NextPage = () => {
       </Head>
       <h1>Cube Tools</h1>
       <ul>
+        {/*
         <li>
           <Link href="/commutator">
             <a className="link-hover">Commutator Expander</a>
           </Link>
         </li>
+        */}
         <li>
           <Link href="/three-style/edge">
             <a className="link-hover">Edge 3-Style</a>

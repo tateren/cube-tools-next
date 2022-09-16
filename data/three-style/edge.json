@@ -1,0 +1,3082 @@
+[
+  {
+    "id": 1,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "UR",
+    "algorithm": "[R2 U': [S, R2]]"
+  },
+  {
+    "id": 2,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "UL",
+    "algorithm": "[L2 U: [S', L2]]"
+  },
+  {
+    "id": 3,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "FR",
+    "algorithm": "[R' U': [S, R2]]"
+  },
+  {
+    "id": 4,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "FD",
+    "algorithm": "[R' F': [R U R', E]]"
+  },
+  {
+    "id": 5,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "FL",
+    "algorithm": "[L U: [S', L2]]"
+  },
+  {
+    "id": 6,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "LU",
+    "algorithm": "[U' M U': [M', U2]]"
+  },
+  {
+    "id": 7,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "LF",
+    "algorithm": "[U': [R' E R, U2]]"
+  },
+  {
+    "id": 8,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "LD",
+    "algorithm": "[U: [L' E' L, U2]]"
+  },
+  {
+    "id": 9,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "LB",
+    "algorithm": "[U': [R E' R', U2]]"
+  },
+  {
+    "id": 10,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "BD",
+    "algorithm": "[U M' U: [M', U2]]"
+  },
+  {
+    "id": 11,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "BR",
+    "algorithm": "[R U': [S, R2]]"
+  },
+  {
+    "id": 12,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "BL",
+    "algorithm": "Rw' F' Rw2 E Rw2 E F Rw"
+  },
+  {
+    "id": 13,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "RU",
+    "algorithm": "[U M U: [M', U2]]"
+  },
+  {
+    "id": 14,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "RB",
+    "algorithm": "[U: [L' E L, U2]]"
+  },
+  {
+    "id": 15,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "RD",
+    "algorithm": "[U': [R E R', U2]]"
+  },
+  {
+    "id": 16,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "RF",
+    "algorithm": "[U: [L E' L', U2]]"
+  },
+  {
+    "id": 17,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "DF",
+    "algorithm": "[U2, M']"
+  },
+  {
+    "id": 18,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "DR",
+    "algorithm": "[U': [S, R2]]"
+  },
+  {
+    "id": 19,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "DB",
+    "algorithm": "[M, U2]"
+  },
+  {
+    "id": 20,
+    "buffer": "UF",
+    "second": "UB",
+    "third": "DL",
+    "algorithm": "[U: [S', L2]]"
+  },
+  {
+    "id": 21,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "UB",
+    "algorithm": "[R2 U': [R2, S]]"
+  },
+  {
+    "id": 22,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "UL",
+    "algorithm": "[M2 U: [M, U2]]"
+  },
+  {
+    "id": 23,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "FR",
+    "algorithm": "[E': [U', R' E R]]"
+  },
+  {
+    "id": 24,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "FD",
+    "algorithm": "[M', R U' R' U]"
+  },
+  {
+    "id": 25,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "FL",
+    "algorithm": "[U', R E2 R']"
+  },
+  {
+    "id": 26,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "LU",
+    "algorithm": "[S', L F' L']"
+  },
+  {
+    "id": 27,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "LF",
+    "algorithm": "[U', R' E R]"
+  },
+  {
+    "id": 28,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "LD",
+    "algorithm": "[U: [L' E' L, U]]"
+  },
+  {
+    "id": 29,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "LB",
+    "algorithm": "[U', R E' R']"
+  },
+  {
+    "id": 30,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "BD",
+    "algorithm": "U M U M' U M U M'"
+  },
+  {
+    "id": 31,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "BR",
+    "algorithm": "[Uw': [R E' R', U]]"
+  },
+  {
+    "id": 32,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "BU",
+    "algorithm": "[U: [R' F R, S]]"
+  },
+  {
+    "id": 33,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "BL",
+    "algorithm": "[U', R' E2 R]"
+  },
+  {
+    "id": 34,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "RB",
+    "algorithm": "[U: [L' E L, U]]"
+  },
+  {
+    "id": 35,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "RD",
+    "algorithm": "[U', R E R']"
+  },
+  {
+    "id": 36,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "RF",
+    "algorithm": "[U: [L E' L', U]]"
+  },
+  {
+    "id": 37,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "DF",
+    "algorithm": "[M U2 M, U]"
+  },
+  {
+    "id": 38,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "DR",
+    "algorithm": "U' R E' R2 E R U R' E' R2 E R'"
+  },
+  {
+    "id": 39,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "DB",
+    "algorithm": "[Rw M': [U' R' U, M2]]"
+  },
+  {
+    "id": 40,
+    "buffer": "UF",
+    "second": "UR",
+    "third": "DL",
+    "algorithm": "[S' R' F R: [S, R2]]"
+  },
+  {
+    "id": 41,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "UB",
+    "algorithm": "[L2 U: [L2, S']]"
+  },
+  {
+    "id": 42,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "UR",
+    "algorithm": "[M2 U': [M, U2]]"
+  },
+  {
+    "id": 43,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "FR",
+    "algorithm": "[U, L' E2 L]"
+  },
+  {
+    "id": 44,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "FD",
+    "algorithm": "[M', L' U L U']"
+  },
+  {
+    "id": 45,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "FL",
+    "algorithm": "[E: [U, L E' L']]"
+  },
+  {
+    "id": 46,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "LF",
+    "algorithm": "[U': [R' E R, U']]"
+  },
+  {
+    "id": 47,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "LD",
+    "algorithm": "[U, L' E' L]"
+  },
+  {
+    "id": 48,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "LB",
+    "algorithm": "[U': [R E' R', U']]"
+  },
+  {
+    "id": 49,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "BD",
+    "algorithm": "U' M U' M' U' M U' M'"
+  },
+  {
+    "id": 50,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "BR",
+    "algorithm": "[U, L E2 L']"
+  },
+  {
+    "id": 51,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "BU",
+    "algorithm": "[U': [L F' L', S']]"
+  },
+  {
+    "id": 52,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "BL",
+    "algorithm": "[Uw: [L' E L, U']]"
+  },
+  {
+    "id": 53,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "RU",
+    "algorithm": "[S, R' F R]"
+  },
+  {
+    "id": 54,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "RB",
+    "algorithm": "[U, L' E L]"
+  },
+  {
+    "id": 55,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "RD",
+    "algorithm": "[U': [R E R', U']]"
+  },
+  {
+    "id": 56,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "RF",
+    "algorithm": "[U, L E' L']"
+  },
+  {
+    "id": 57,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "DF",
+    "algorithm": "[R' F': [R S R', F2]]"
+  },
+  {
+    "id": 58,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "DR",
+    "algorithm": "U R U R' U' R' U' R' U R"
+  },
+  {
+    "id": 59,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "DB",
+    "algorithm": "D' U R U R' U' R' U' R' U R D"
+  },
+  {
+    "id": 60,
+    "buffer": "UF",
+    "second": "UL",
+    "third": "DL",
+    "algorithm": "L U' Rw E Rw2 E Rw U L'"
+  },
+  {
+    "id": 61,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "UB",
+    "algorithm": "[R' U': [R2, S]]"
+  },
+  {
+    "id": 62,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "UR",
+    "algorithm": "[E': [R' E R, U']]"
+  },
+  {
+    "id": 63,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "UL",
+    "algorithm": "[L' E2 L, U]"
+  },
+  {
+    "id": 64,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "FD",
+    "algorithm": "[M', U' R U]"
+  },
+  {
+    "id": 65,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "FL",
+    "algorithm": "[R' U' R: [E, R2]]"
+  },
+  {
+    "id": 66,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "LU",
+    "algorithm": "[S' U L: [E', L2]]"
+  },
+  {
+    "id": 67,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "LF",
+    "algorithm": "[R U' R', E]"
+  },
+  {
+    "id": 68,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "LD",
+    "algorithm": "[D: [M', U' R U]]"
+  },
+  {
+    "id": 69,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "LB",
+    "algorithm": "[R: [U', R E' R']]"
+  },
+  {
+    "id": 70,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "BD",
+    "algorithm": "[U L B': [E', L2]]"
+  },
+  {
+    "id": 71,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "BR",
+    "algorithm": "[U R': [S, R2]]"
+  },
+  {
+    "id": 72,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "BU",
+    "algorithm": "[M, U' R U]"
+  },
+  {
+    "id": 73,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "BL",
+    "algorithm": "[R' U' R': [E', R2]]"
+  },
+  {
+    "id": 74,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "RU",
+    "algorithm": "[R' U' E' R: [E, R2]]"
+  },
+  {
+    "id": 75,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "RB",
+    "algorithm": "[R U' R', E']"
+  },
+  {
+    "id": 76,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "RD",
+    "algorithm": "[R' Fw R': [S', R2]]"
+  },
+  {
+    "id": 77,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "DF",
+    "algorithm": "R' Fw2 R2 U' R2 Fw2 R2 U' R'"
+  },
+  {
+    "id": 78,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "DR",
+    "algorithm": "U R' U' R' U R U R U R' U2"
+  },
+  {
+    "id": 79,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "DB",
+    "algorithm": "[M2, U' R U]"
+  },
+  {
+    "id": 80,
+    "buffer": "UF",
+    "second": "FR",
+    "third": "DL",
+    "algorithm": "[U L: [E', L2]]"
+  },
+  {
+    "id": 81,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "UB",
+    "algorithm": "[R' F': [E, R U R']]"
+  },
+  {
+    "id": 82,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "UR",
+    "algorithm": "[R: [U' R' U, M']]"
+  },
+  {
+    "id": 83,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "UL",
+    "algorithm": "[L': [U L U', M']]"
+  },
+  {
+    "id": 84,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "FR",
+    "algorithm": "[U' R U, M']"
+  },
+  {
+    "id": 85,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "FL",
+    "algorithm": "[U L' U', M']"
+  },
+  {
+    "id": 86,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "LU",
+    "algorithm": "[Lw': [U' L U, M']]"
+  },
+  {
+    "id": 87,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "LF",
+    "algorithm": "[M': [U' L' U, M']]"
+  },
+  {
+    "id": 88,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "LD",
+    "algorithm": "[U: [R' D' R, S']]"
+  },
+  {
+    "id": 89,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "LB",
+    "algorithm": "[M': [U' L U, M']]"
+  },
+  {
+    "id": 90,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "BD",
+    "algorithm": "U M' U' M U2 M U M' U"
+  },
+  {
+    "id": 91,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "BR",
+    "algorithm": "[U' R' U, M']"
+  },
+  {
+    "id": 92,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "BU",
+    "algorithm": "[U': [S, R' F' R]]"
+  },
+  {
+    "id": 93,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "BL",
+    "algorithm": "[U L U', M']"
+  },
+  {
+    "id": 94,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "RU",
+    "algorithm": "[Rw: [U R' U', M']]"
+  },
+  {
+    "id": 95,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "RB",
+    "algorithm": "[M': [U R' U', M']]"
+  },
+  {
+    "id": 96,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "RD",
+    "algorithm": "[U': [S', R' F' R]]"
+  },
+  {
+    "id": 97,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "RF",
+    "algorithm": "[M': [U R U', M']]"
+  },
+  {
+    "id": 98,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "DR",
+    "algorithm": "[U R' F' R: [R2, S]]"
+  },
+  {
+    "id": 99,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "DB",
+    "algorithm": "[D: [R F R', S']]"
+  },
+  {
+    "id": 100,
+    "buffer": "UF",
+    "second": "FD",
+    "third": "DL",
+    "algorithm": "[U' L F L': [L2, S']]"
+  },
+  {
+    "id": 101,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "UB",
+    "algorithm": "[L U: [L2, S']]"
+  },
+  {
+    "id": 102,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "UR",
+    "algorithm": "[R E2 R', U']"
+  },
+  {
+    "id": 103,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "UL",
+    "algorithm": "[E: [L E' L', U]]"
+  },
+  {
+    "id": 104,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "FR",
+    "algorithm": "[R' U' R': [E, R2]]"
+  },
+  {
+    "id": 105,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "FD",
+    "algorithm": "[M', U L' U']"
+  },
+  {
+    "id": 106,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "LU",
+    "algorithm": "[Rw' F': [Rw S Rw', F']]"
+  },
+  {
+    "id": 107,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "LD",
+    "algorithm": "[S' U' R': [E, R2]]"
+  },
+  {
+    "id": 108,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "LB",
+    "algorithm": "[R E': [E', R' U' R]]"
+  },
+  {
+    "id": 109,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "BD",
+    "algorithm": "[U' R' B: [E, R2]]"
+  },
+  {
+    "id": 110,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "BR",
+    "algorithm": "[R U' R': [E, R2]]"
+  },
+  {
+    "id": 111,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "BU",
+    "algorithm": "[U': [S, R' F2 R]]"
+  },
+  {
+    "id": 112,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "BL",
+    "algorithm": "U' Rw E Rw2 E Rw U"
+  },
+  {
+    "id": 113,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "RU",
+    "algorithm": "[S U' R: [R2, E]]"
+  },
+  {
+    "id": 114,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "RB",
+    "algorithm": "[L': [U, L' E L]]"
+  },
+  {
+    "id": 115,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "RD",
+    "algorithm": "[U': [S', R' F2 R]]"
+  },
+  {
+    "id": 116,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "RF",
+    "algorithm": "[E, Rw U Rw']"
+  },
+  {
+    "id": 117,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "DF",
+    "algorithm": "U' L' U' M' U2 M U' L U"
+  },
+  {
+    "id": 118,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "DR",
+    "algorithm": "[U' R': [E, R2]]"
+  },
+  {
+    "id": 119,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "DB",
+    "algorithm": "[D' U' R': [E, R2]]"
+  },
+  {
+    "id": 120,
+    "buffer": "UF",
+    "second": "FL",
+    "third": "DL",
+    "algorithm": "D U' L' U' M' U2 M U' L U D'"
+  },
+  {
+    "id": 121,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "UB",
+    "algorithm": "[U' M U': [U2, M']]"
+  },
+  {
+    "id": 122,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "UR",
+    "algorithm": "[L F' L', S']"
+  },
+  {
+    "id": 123,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "FR",
+    "algorithm": "[S' U L': [E', L2]]"
+  },
+  {
+    "id": 124,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "FD",
+    "algorithm": "[Lw': [M', U' L U]]"
+  },
+  {
+    "id": 125,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "FL",
+    "algorithm": "[Rw' F2: [Rw S Rw', F]]"
+  },
+  {
+    "id": 126,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "LF",
+    "algorithm": "[S: [U', R' E R]]"
+  },
+  {
+    "id": 127,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "LD",
+    "algorithm": "[Lw D L': [S, L2]]"
+  },
+  {
+    "id": 128,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "LB",
+    "algorithm": "[S: [U', R E' R']]"
+  },
+  {
+    "id": 129,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "BD",
+    "algorithm": "M' U M' U M U M' U M2"
+  },
+  {
+    "id": 130,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "BR",
+    "algorithm": "[M': [U', L' E L]]"
+  },
+  {
+    "id": 131,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "BU",
+    "algorithm": "[L': [U' L U, M']]"
+  },
+  {
+    "id": 132,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "BL",
+    "algorithm": "[L' Uw L: [L2, E]]"
+  },
+  {
+    "id": 133,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "RU",
+    "algorithm": "[M U: [M', U2]]"
+  },
+  {
+    "id": 134,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "RB",
+    "algorithm": "[L' F': [E, L2]]"
+  },
+  {
+    "id": 135,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "RD",
+    "algorithm": "[R' F R: [S, R2]]"
+  },
+  {
+    "id": 136,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "RF",
+    "algorithm": "[R M U: [M', U2]]"
+  },
+  {
+    "id": 137,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "DF",
+    "algorithm": "[L' F': [L2, E']]"
+  },
+  {
+    "id": 138,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "DR",
+    "algorithm": "[L: [F', L S L']]"
+  },
+  {
+    "id": 139,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "DB",
+    "algorithm": "[L' M: [U' L U, M2]]"
+  },
+  {
+    "id": 140,
+    "buffer": "UF",
+    "second": "LU",
+    "third": "DL",
+    "algorithm": "[L F' L', S]"
+  },
+  {
+    "id": 141,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "UB",
+    "algorithm": "[U: [R' E R, U2]]"
+  },
+  {
+    "id": 142,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "UR",
+    "algorithm": "[R' E R, U']"
+  },
+  {
+    "id": 143,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "UL",
+    "algorithm": "[U2: [R' E R, U]]"
+  },
+  {
+    "id": 144,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "FR",
+    "algorithm": "[E, R U' R']"
+  },
+  {
+    "id": 145,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "FD",
+    "algorithm": "[M2: [U' L' U, M]]"
+  },
+  {
+    "id": 146,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "LU",
+    "algorithm": "[S: [R' E R, U']]"
+  },
+  {
+    "id": 147,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "LD",
+    "algorithm": "[L, U S' U']"
+  },
+  {
+    "id": 148,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "LB",
+    "algorithm": "M' U Rw E Rw2 E Rw U' M"
+  },
+  {
+    "id": 149,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "BD",
+    "algorithm": "[U' M: [U, R' E R]]"
+  },
+  {
+    "id": 150,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "BR",
+    "algorithm": "[R': [R' E R, U']]"
+  },
+  {
+    "id": 151,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "BU",
+    "algorithm": "[U' L' U, M']"
+  },
+  {
+    "id": 152,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "BL",
+    "algorithm": "[E', L U L']"
+  },
+  {
+    "id": 153,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "RU",
+    "algorithm": "[M L' U: [M', U2]]"
+  },
+  {
+    "id": 154,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "RB",
+    "algorithm": "[Rw U R': [E, R2]]"
+  },
+  {
+    "id": 155,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "RD",
+    "algorithm": "[M' U R': [E, R2]]"
+  },
+  {
+    "id": 156,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "RF",
+    "algorithm": "[U E R': [S, R2]]"
+  },
+  {
+    "id": 157,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "DF",
+    "algorithm": "[U R' F2: [R S R', F]]"
+  },
+  {
+    "id": 158,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "DR",
+    "algorithm": "[U' E' R: [E', R2]]"
+  },
+  {
+    "id": 159,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "DB",
+    "algorithm": "[M: [U' L' U, M2]]"
+  },
+  {
+    "id": 160,
+    "buffer": "UF",
+    "second": "LF",
+    "third": "DL",
+    "algorithm": "[U E L: [E', L2]]"
+  },
+  {
+    "id": 161,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "UB",
+    "algorithm": "[U': [L' E' L, U2]]"
+  },
+  {
+    "id": 162,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "UR",
+    "algorithm": "[U2: [L' E' L, U']]"
+  },
+  {
+    "id": 163,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "UL",
+    "algorithm": "[L' E' L, U]"
+  },
+  {
+    "id": 164,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "FR",
+    "algorithm": "[R U2: [R' S R, U']]"
+  },
+  {
+    "id": 165,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "FD",
+    "algorithm": "[U: [S', R' D' R]]"
+  },
+  {
+    "id": 166,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "FL",
+    "algorithm": "[S' U' R: [E, R2]]"
+  },
+  {
+    "id": 167,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "LU",
+    "algorithm": "[Lw D L: [S, L2]]"
+  },
+  {
+    "id": 168,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "LF",
+    "algorithm": "[U S' U', L]"
+  },
+  {
+    "id": 169,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "LB",
+    "algorithm": "[U S' U', L']"
+  },
+  {
+    "id": 170,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "BD",
+    "algorithm": "[U' Lw: [U, R E' R']]"
+  },
+  {
+    "id": 171,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "BR",
+    "algorithm": "[D: [U' R' U, M']]"
+  },
+  {
+    "id": 172,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "BU",
+    "algorithm": "[L': [U' L' U, M']]"
+  },
+  {
+    "id": 173,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "BL",
+    "algorithm": "[S' U' R': [E', R2]]"
+  },
+  {
+    "id": 174,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "RU",
+    "algorithm": "[U: [L F' L', S]]"
+  },
+  {
+    "id": 175,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "RB",
+    "algorithm": "[F R': [S', R2]]"
+  },
+  {
+    "id": 176,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "RD",
+    "algorithm": "[R' F R': [S', R2]]"
+  },
+  {
+    "id": 177,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "RF",
+    "algorithm": "[M' U' L': [E', L2]]"
+  },
+  {
+    "id": 178,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "DF",
+    "algorithm": "[L F: [E', L2]]"
+  },
+  {
+    "id": 179,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "DR",
+    "algorithm": "[L' F' L, S]"
+  },
+  {
+    "id": 180,
+    "buffer": "UF",
+    "second": "LD",
+    "third": "DB",
+    "algorithm": "[U: [S', L B' L']]"
+  },
+  {
+    "id": 181,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "UB",
+    "algorithm": "[U: [R E' R', U2]]"
+  },
+  {
+    "id": 182,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "UR",
+    "algorithm": "[R E' R', U']"
+  },
+  {
+    "id": 183,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "UL",
+    "algorithm": "[U2: [R E' R', U]]"
+  },
+  {
+    "id": 184,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "FR",
+    "algorithm": "[R: [R E' R', U']]"
+  },
+  {
+    "id": 185,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "FD",
+    "algorithm": "[U' M': [U', R E' R']]"
+  },
+  {
+    "id": 186,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "FL",
+    "algorithm": "[E, L' U L]"
+  },
+  {
+    "id": 187,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "LU",
+    "algorithm": "[S: [R E' R', U']]"
+  },
+  {
+    "id": 188,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "LF",
+    "algorithm": "M' U Rw' E' Rw2 E' Rw' U' M"
+  },
+  {
+    "id": 189,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "LD",
+    "algorithm": "[L', U S' U']"
+  },
+  {
+    "id": 190,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "BD",
+    "algorithm": "[U' M: [U, R E' R']]"
+  },
+  {
+    "id": 191,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "BR",
+    "algorithm": "[E', R' U' R]"
+  },
+  {
+    "id": 192,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "BU",
+    "algorithm": "[U' L U, M']"
+  },
+  {
+    "id": 193,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "RU",
+    "algorithm": "[R F: [R2, E']]"
+  },
+  {
+    "id": 194,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "RB",
+    "algorithm": "[Uw' L: [S', L2]]"
+  },
+  {
+    "id": 195,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "RD",
+    "algorithm": "[M' U R: [E', R2]]"
+  },
+  {
+    "id": 196,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "RF",
+    "algorithm": "[E' R U' R: [E, R2]]"
+  },
+  {
+    "id": 197,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "DF",
+    "algorithm": "[Lw' U: [S', L2]]"
+  },
+  {
+    "id": 198,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "DR",
+    "algorithm": "[Uw' R': [E, R2]]"
+  },
+  {
+    "id": 199,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "DB",
+    "algorithm": "[M: [U' L U, M2]]"
+  },
+  {
+    "id": 200,
+    "buffer": "UF",
+    "second": "LB",
+    "third": "DL",
+    "algorithm": "[Uw L': [E, L2]]"
+  },
+  {
+    "id": 201,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "UB",
+    "algorithm": "[U' M' U: [M', U2]]"
+  },
+  {
+    "id": 202,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "UR",
+    "algorithm": "M U' M' U' M U' M' U'"
+  },
+  {
+    "id": 203,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "UL",
+    "algorithm": "M U M' U M U M' U"
+  },
+  {
+    "id": 204,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "FR",
+    "algorithm": "[U L B': [L2, E']]"
+  },
+  {
+    "id": 205,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "FD",
+    "algorithm": "[U: [M U M', Dw2]]"
+  },
+  {
+    "id": 206,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "FL",
+    "algorithm": "[U' R' B: [R2, E]]"
+  },
+  {
+    "id": 207,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "LU",
+    "algorithm": "M2 U' M U' M' U' M U' M"
+  },
+  {
+    "id": 208,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "LF",
+    "algorithm": "[U' M: [R' E R, U]]"
+  },
+  {
+    "id": 209,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "LD",
+    "algorithm": "[U' Lw: [R E' R', U]]"
+  },
+  {
+    "id": 210,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "LB",
+    "algorithm": "[U' M: [R E' R', U]]"
+  },
+  {
+    "id": 211,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "BR",
+    "algorithm": "[U': [R', U' M U]]"
+  },
+  {
+    "id": 212,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "BU",
+    "algorithm": "[U': [S, Lw U Lw']]"
+  },
+  {
+    "id": 213,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "BL",
+    "algorithm": "[U: [L, U M U']]"
+  },
+  {
+    "id": 214,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "RU",
+    "algorithm": "M2 U M U M' U M U M"
+  },
+  {
+    "id": 215,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "RB",
+    "algorithm": "[U M: [Lw' E Lw, U']]"
+  },
+  {
+    "id": 216,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "RD",
+    "algorithm": "[U' Rw': [E', R U R']]"
+  },
+  {
+    "id": 217,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "RF",
+    "algorithm": "[U Lw: [E', L' U' L]]"
+  },
+  {
+    "id": 218,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "DF",
+    "algorithm": "[D': [R F R', S']]"
+  },
+  {
+    "id": 219,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "DR",
+    "algorithm": "[D' R' F': [E, R2]]"
+  },
+  {
+    "id": 220,
+    "buffer": "UF",
+    "second": "BD",
+    "third": "DL",
+    "algorithm": "[U' R' B R: [S', R2]]"
+  },
+  {
+    "id": 221,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "UB",
+    "algorithm": "[R U': [R2, S]]"
+  },
+  {
+    "id": 222,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "UR",
+    "algorithm": "[E: [R E' R', U']]"
+  },
+  {
+    "id": 223,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "UL",
+    "algorithm": "[L E2 L', U]"
+  },
+  {
+    "id": 224,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "FR",
+    "algorithm": "[U R: [S, R2]]"
+  },
+  {
+    "id": 225,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "FD",
+    "algorithm": "[M', U' R' U]"
+  },
+  {
+    "id": 226,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "FL",
+    "algorithm": "[R U' R: [E, R2]]"
+  },
+  {
+    "id": 227,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "LU",
+    "algorithm": "[M': [L' E L, U']]"
+  },
+  {
+    "id": 228,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "LF",
+    "algorithm": "[R': [U', R' E R]]"
+  },
+  {
+    "id": 229,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "LD",
+    "algorithm": "[D: [M', U' R' U]]"
+  },
+  {
+    "id": 230,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "LB",
+    "algorithm": "[R' U' R, E']"
+  },
+  {
+    "id": 231,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "BD",
+    "algorithm": "[U2: [M, U R' U']]"
+  },
+  {
+    "id": 232,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "BU",
+    "algorithm": "[M, U' R' U]"
+  },
+  {
+    "id": 233,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "BL",
+    "algorithm": "[R U' R': [E', R2]]"
+  },
+  {
+    "id": 234,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "RU",
+    "algorithm": "[R Uw' R': [E', R2]]"
+  },
+  {
+    "id": 235,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "RD",
+    "algorithm": "[D': [M', U' R' U]]"
+  },
+  {
+    "id": 236,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "RF",
+    "algorithm": "[R' U' R, E]"
+  },
+  {
+    "id": 237,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "DF",
+    "algorithm": "[U R' U: [M', U2]]"
+  },
+  {
+    "id": 238,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "DR",
+    "algorithm": "U R U R U' R' U' R' U' R"
+  },
+  {
+    "id": 239,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "DB",
+    "algorithm": "[M2, U' R' U]"
+  },
+  {
+    "id": 240,
+    "buffer": "UF",
+    "second": "BR",
+    "third": "DL",
+    "algorithm": "[U L': [E, L2]]"
+  },
+  {
+    "id": 241,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "UR",
+    "algorithm": "[U: [S, R' F R]]"
+  },
+  {
+    "id": 242,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "UL",
+    "algorithm": "[U': [S', L F' L']]"
+  },
+  {
+    "id": 243,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "FR",
+    "algorithm": "[U' R U, M]"
+  },
+  {
+    "id": 244,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "FD",
+    "algorithm": "[U': [R' F' R, S]]"
+  },
+  {
+    "id": 245,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "FL",
+    "algorithm": "[U': [R' F2 R, S]]"
+  },
+  {
+    "id": 246,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "LU",
+    "algorithm": "[L': [M', U' L U]]"
+  },
+  {
+    "id": 247,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "LF",
+    "algorithm": "[M', U' L' U]"
+  },
+  {
+    "id": 248,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "LD",
+    "algorithm": "[L': [M', U' L' U]]"
+  },
+  {
+    "id": 249,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "LB",
+    "algorithm": "[M', U' L U]"
+  },
+  {
+    "id": 250,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "BD",
+    "algorithm": "[U': [Lw U Lw', S]]"
+  },
+  {
+    "id": 251,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "BR",
+    "algorithm": "[U' R' U, M]"
+  },
+  {
+    "id": 252,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "BL",
+    "algorithm": "[U L U', M]"
+  },
+  {
+    "id": 253,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "RU",
+    "algorithm": "[R: [M', U R' U']]"
+  },
+  {
+    "id": 254,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "RB",
+    "algorithm": "[M', U R' U']"
+  },
+  {
+    "id": 255,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "RD",
+    "algorithm": "[R: [M', U R U']]"
+  },
+  {
+    "id": 256,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "RF",
+    "algorithm": "[M', U R U']"
+  },
+  {
+    "id": 257,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "DF",
+    "algorithm": "[U: [S, R' F' R]]"
+  },
+  {
+    "id": 258,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "DR",
+    "algorithm": "[R': [U' R' U, M]]"
+  },
+  {
+    "id": 259,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "DB",
+    "algorithm": "[U: [S, Lw U Lw']]"
+  },
+  {
+    "id": 260,
+    "buffer": "UF",
+    "second": "BU",
+    "third": "DL",
+    "algorithm": "[L: [U L U', M]]"
+  },
+  {
+    "id": 261,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "UB",
+    "algorithm": "Rw' F Rw2 E Rw2 E F' Rw"
+  },
+  {
+    "id": 262,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "UR",
+    "algorithm": "[R' E2 R, U']"
+  },
+  {
+    "id": 263,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "UL",
+    "algorithm": "[E': [L' E L, U]]"
+  },
+  {
+    "id": 264,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "FR",
+    "algorithm": "[R' U' R: [E', R2]]"
+  },
+  {
+    "id": 265,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "FD",
+    "algorithm": "[M', U L U']"
+  },
+  {
+    "id": 266,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "FL",
+    "algorithm": "U' Rw' E' Rw2 E' Rw' U"
+  },
+  {
+    "id": 267,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "LU",
+    "algorithm": "[L' Uw L: [E, L2]]"
+  },
+  {
+    "id": 268,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "LF",
+    "algorithm": "[L U L', E']"
+  },
+  {
+    "id": 269,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "LD",
+    "algorithm": "[S' U' R: [E', R2]]"
+  },
+  {
+    "id": 270,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "BD",
+    "algorithm": "[U2: [M, U' L U]]"
+  },
+  {
+    "id": 271,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "BR",
+    "algorithm": "[R U' R: [E', R2]]"
+  },
+  {
+    "id": 272,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "BU",
+    "algorithm": "[M, U L U']"
+  },
+  {
+    "id": 273,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "RU",
+    "algorithm": "[M': [R E' R', U]]"
+  },
+  {
+    "id": 274,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "RB",
+    "algorithm": "[L U L', E]"
+  },
+  {
+    "id": 275,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "RD",
+    "algorithm": "[R' E2: [R U' R', E]]"
+  },
+  {
+    "id": 276,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "RF",
+    "algorithm": "[L: [U, L E' L']]"
+  },
+  {
+    "id": 277,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "DF",
+    "algorithm": "[U' L U': [M', U2]]"
+  },
+  {
+    "id": 278,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "DR",
+    "algorithm": "[U' R: [E', R2]]"
+  },
+  {
+    "id": 279,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "DB",
+    "algorithm": "[U' D' R': [R2, E']]"
+  },
+  {
+    "id": 280,
+    "buffer": "UF",
+    "second": "BL",
+    "third": "DL",
+    "algorithm": "U' L' U' L' U L U L U L'"
+  },
+  {
+    "id": 281,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "UB",
+    "algorithm": "[U M U': [M', U2]]"
+  },
+  {
+    "id": 282,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "UL",
+    "algorithm": "[R' F R, S]"
+  },
+  {
+    "id": 283,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "FR",
+    "algorithm": "[R' U' E' R': [E, R2]]"
+  },
+  {
+    "id": 284,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "FD",
+    "algorithm": "[Rw: [M', U R' U']]"
+  },
+  {
+    "id": 285,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "FL",
+    "algorithm": "[M': [U, Rw' E Rw]]"
+  },
+  {
+    "id": 286,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "LU",
+    "algorithm": "[M U': [M', U2]]"
+  },
+  {
+    "id": 287,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "LF",
+    "algorithm": "[M L' U': [M', U2]]"
+  },
+  {
+    "id": 288,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "LD",
+    "algorithm": "[U: [S, L F' L']]"
+  },
+  {
+    "id": 289,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "LB",
+    "algorithm": "[R F: [E', R2]]"
+  },
+  {
+    "id": 290,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "BD",
+    "algorithm": "M' U' M' U' M U' M' U' M2"
+  },
+  {
+    "id": 291,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "BR",
+    "algorithm": "[R Uw' R: [E', R2]]"
+  },
+  {
+    "id": 292,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "BU",
+    "algorithm": "[R: [U R' U', M']]"
+  },
+  {
+    "id": 293,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "BL",
+    "algorithm": "[M': [U, R E' R']]"
+  },
+  {
+    "id": 294,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "RB",
+    "algorithm": "[S': [U, L' E L]]"
+  },
+  {
+    "id": 295,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "RD",
+    "algorithm": "[Rw' D' R: [S', R2]]"
+  },
+  {
+    "id": 296,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "RF",
+    "algorithm": "[S': [U, L E' L']]"
+  },
+  {
+    "id": 297,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "DF",
+    "algorithm": "[R F: [R2, E]]"
+  },
+  {
+    "id": 298,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "DR",
+    "algorithm": "[R' F R, S']"
+  },
+  {
+    "id": 299,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "DB",
+    "algorithm": "[R M: [U R' U', M2]]"
+  },
+  {
+    "id": 300,
+    "buffer": "UF",
+    "second": "RU",
+    "third": "DL",
+    "algorithm": "[R': [F, R' S' R]]"
+  },
+  {
+    "id": 301,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "UB",
+    "algorithm": "[U': [L' E L, U2]]"
+  },
+  {
+    "id": 302,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "UR",
+    "algorithm": "[U2: [L' E L, U']]"
+  },
+  {
+    "id": 303,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "UL",
+    "algorithm": "[L' E L, U]"
+  },
+  {
+    "id": 304,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "FR",
+    "algorithm": "[E', R U' R']"
+  },
+  {
+    "id": 305,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "FD",
+    "algorithm": "[M2: [U R' U', M]]"
+  },
+  {
+    "id": 306,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "FL",
+    "algorithm": "[L': [L' E L, U]]"
+  },
+  {
+    "id": 307,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "LU",
+    "algorithm": "[F R': [S, R2]]"
+  },
+  {
+    "id": 308,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "LF",
+    "algorithm": "[Rw U R: [E, R2]]"
+  },
+  {
+    "id": 309,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "LD",
+    "algorithm": "[F R: [S', R2]]"
+  },
+  {
+    "id": 310,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "LB",
+    "algorithm": "[Uw R': [S, R2]]"
+  },
+  {
+    "id": 311,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "BD",
+    "algorithm": "[U M: [U', Lw' E Lw]]"
+  },
+  {
+    "id": 312,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "BU",
+    "algorithm": "[U R' U', M']"
+  },
+  {
+    "id": 313,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "BL",
+    "algorithm": "[E, L U L']"
+  },
+  {
+    "id": 314,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "RU",
+    "algorithm": "[S': [L' E L, U]]"
+  },
+  {
+    "id": 315,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "RD",
+    "algorithm": "[R, U' S U]"
+  },
+  {
+    "id": 316,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "RF",
+    "algorithm": "[E R U' R: [E', R2]]"
+  },
+  {
+    "id": 317,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "DF",
+    "algorithm": "[Rw U': [S, R2]]"
+  },
+  {
+    "id": 318,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "DR",
+    "algorithm": "[Uw' R: [E', R2]]"
+  },
+  {
+    "id": 319,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "DB",
+    "algorithm": "[M: [U R' U', M2]]"
+  },
+  {
+    "id": 320,
+    "buffer": "UF",
+    "second": "RB",
+    "third": "DL",
+    "algorithm": "[Uw L': [L2, E']]"
+  },
+  {
+    "id": 321,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "UB",
+    "algorithm": "[U: [R E R', U2]]"
+  },
+  {
+    "id": 322,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "UR",
+    "algorithm": "[R E R', U']"
+  },
+  {
+    "id": 323,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "UL",
+    "algorithm": "[U2: [R E R', U]]"
+  },
+  {
+    "id": 324,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "FR",
+    "algorithm": "[D': [U' R U, M']]"
+  },
+  {
+    "id": 325,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "FD",
+    "algorithm": "[U': [R' F' R, S']]"
+  },
+  {
+    "id": 326,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "FL",
+    "algorithm": "[R E: [R' U' R, E]]"
+  },
+  {
+    "id": 327,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "LU",
+    "algorithm": "[R' F R': [S, R2]]"
+  },
+  {
+    "id": 328,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "LF",
+    "algorithm": "[M' U R: [E, R2]]"
+  },
+  {
+    "id": 329,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "LD",
+    "algorithm": "[R' F R: [S', R2]]"
+  },
+  {
+    "id": 330,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "LB",
+    "algorithm": "[M' U R': [E', R2]]"
+  },
+  {
+    "id": 331,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "BD",
+    "algorithm": "[U' Rw': [R U R', E']]"
+  },
+  {
+    "id": 332,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "BR",
+    "algorithm": "[D': [U' R' U, M']]"
+  },
+  {
+    "id": 333,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "BU",
+    "algorithm": "[R: [U R U', M']]"
+  },
+  {
+    "id": 334,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "BL",
+    "algorithm": "[R' E': [R U' R', E']]"
+  },
+  {
+    "id": 335,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "RU",
+    "algorithm": "[Rw' D' R': [S', R2]]"
+  },
+  {
+    "id": 336,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "RB",
+    "algorithm": "[U' S U, R]"
+  },
+  {
+    "id": 337,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "RF",
+    "algorithm": "[U' S U, R']"
+  },
+  {
+    "id": 338,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "DF",
+    "algorithm": "[R' F': [E, R2]]"
+  },
+  {
+    "id": 339,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "DB",
+    "algorithm": "[U': [S, R' B R]]"
+  },
+  {
+    "id": 340,
+    "buffer": "UF",
+    "second": "RD",
+    "third": "DL",
+    "algorithm": "[R F R', S']"
+  },
+  {
+    "id": 341,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "UB",
+    "algorithm": "[U': [L E' L', U2]]"
+  },
+  {
+    "id": 342,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "UR",
+    "algorithm": "[U2: [L E' L', U']]"
+  },
+  {
+    "id": 343,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "UL",
+    "algorithm": "[L E' L', U]"
+  },
+  {
+    "id": 344,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "FD",
+    "algorithm": "[M2: [U R U', M]]"
+  },
+  {
+    "id": 345,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "FL",
+    "algorithm": "[Rw U Rw', E]"
+  },
+  {
+    "id": 346,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "LU",
+    "algorithm": "[R M U': [M', U2]]"
+  },
+  {
+    "id": 347,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "LF",
+    "algorithm": "U' E' Rw E Rw2 E Rw E U"
+  },
+  {
+    "id": 348,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "LD",
+    "algorithm": "[M' U' L: [E', L2]]"
+  },
+  {
+    "id": 349,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "LB",
+    "algorithm": "[E' R U' R: [R2, E]]"
+  },
+  {
+    "id": 350,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "BD",
+    "algorithm": "[U M: [U', L E' L']]"
+  },
+  {
+    "id": 351,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "BR",
+    "algorithm": "[E, R' U' R]"
+  },
+  {
+    "id": 352,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "BU",
+    "algorithm": "[U R U', M']"
+  },
+  {
+    "id": 353,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "BL",
+    "algorithm": "[L: [L E' L', U]]"
+  },
+  {
+    "id": 354,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "RU",
+    "algorithm": "[S': [L E' L', U]]"
+  },
+  {
+    "id": 355,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "RB",
+    "algorithm": "[M' U' R': [S, R2]]"
+  },
+  {
+    "id": 356,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "RD",
+    "algorithm": "[R', U' S U]"
+  },
+  {
+    "id": 357,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "DF",
+    "algorithm": "[R2 F: [R2, E]]"
+  },
+  {
+    "id": 358,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "DR",
+    "algorithm": "[U' E' R': [E, R2]]"
+  },
+  {
+    "id": 359,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "DB",
+    "algorithm": "[M: [U R U', M2]]"
+  },
+  {
+    "id": 360,
+    "buffer": "UF",
+    "second": "RF",
+    "third": "DL",
+    "algorithm": "[U E L': [E, L2]]"
+  },
+  {
+    "id": 361,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "UB",
+    "algorithm": "[M', U2]"
+  },
+  {
+    "id": 362,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "UR",
+    "algorithm": "[U, M U2 M]"
+  },
+  {
+    "id": 363,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "UL",
+    "algorithm": "[R' F: [R S R', F2]]"
+  },
+  {
+    "id": 364,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "FR",
+    "algorithm": "[U R U': [M', U2]]"
+  },
+  {
+    "id": 365,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "FL",
+    "algorithm": "[U' L' U: [M', U2]]"
+  },
+  {
+    "id": 366,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "LU",
+    "algorithm": "[L' F': [E', L2]]"
+  },
+  {
+    "id": 367,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "LF",
+    "algorithm": "[U R' F': [R S R', F']]"
+  },
+  {
+    "id": 368,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "LD",
+    "algorithm": "[L F: [L2, E']]"
+  },
+  {
+    "id": 369,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "LB",
+    "algorithm": "[Lw' U: [L2, S']]"
+  },
+  {
+    "id": 370,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "BD",
+    "algorithm": "[D': [S', R F R']]"
+  },
+  {
+    "id": 371,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "BR",
+    "algorithm": "[U R' U': [M', U2]]"
+  },
+  {
+    "id": 372,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "BU",
+    "algorithm": "[U: [R' F' R, S]]"
+  },
+  {
+    "id": 373,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "BL",
+    "algorithm": "[U' L U: [M', U2]]"
+  },
+  {
+    "id": 374,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "RU",
+    "algorithm": "[R F: [E, R2]]"
+  },
+  {
+    "id": 375,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "RB",
+    "algorithm": "[Rw U': [R2, S]]"
+  },
+  {
+    "id": 376,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "RD",
+    "algorithm": "[R' F': [R2, E]]"
+  },
+  {
+    "id": 377,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "RF",
+    "algorithm": "[R2 F: [E, R2]]"
+  },
+  {
+    "id": 378,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "DR",
+    "algorithm": "[R' F: [R S' R', F2]]"
+  },
+  {
+    "id": 379,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "DB",
+    "algorithm": "Uw2 M' Uw2 M'"
+  },
+  {
+    "id": 380,
+    "buffer": "UF",
+    "second": "DF",
+    "third": "DL",
+    "algorithm": "[R' F: [R' S' R, F2]]"
+  },
+  {
+    "id": 381,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "UB",
+    "algorithm": "[U': [R2, S]]"
+  },
+  {
+    "id": 382,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "UR",
+    "algorithm": "R E' R2 E R U' R' E' R2 E R' U"
+  },
+  {
+    "id": 383,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "UL",
+    "algorithm": "R' U' R U R U R U' R' U'"
+  },
+  {
+    "id": 384,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "FR",
+    "algorithm": "U2 R U' R' U' R' U' R U R U'"
+  },
+  {
+    "id": 385,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "FD",
+    "algorithm": "[U R' F' R: [S, R2]]"
+  },
+  {
+    "id": 386,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "FL",
+    "algorithm": "[U' R: [E, R2]]"
+  },
+  {
+    "id": 387,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "LU",
+    "algorithm": "[L: [L S L', F']]"
+  },
+  {
+    "id": 388,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "LF",
+    "algorithm": "[U' E' R': [E', R2]]"
+  },
+  {
+    "id": 389,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "LD",
+    "algorithm": "[S, L' F' L]"
+  },
+  {
+    "id": 390,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "LB",
+    "algorithm": "[Uw' R: [E, R2]]"
+  },
+  {
+    "id": 391,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "BD",
+    "algorithm": "[D' R' F': [R2, E]]"
+  },
+  {
+    "id": 392,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "BR",
+    "algorithm": "R' U R U R U R' U' R' U'"
+  },
+  {
+    "id": 393,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "BU",
+    "algorithm": "[Rw': [U' R' U, M']]"
+  },
+  {
+    "id": 394,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "BL",
+    "algorithm": "[U' R': [E', R2]]"
+  },
+  {
+    "id": 395,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "RU",
+    "algorithm": "[S', R' F R]"
+  },
+  {
+    "id": 396,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "RB",
+    "algorithm": "[Uw' R': [E', R2]]"
+  },
+  {
+    "id": 397,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "RF",
+    "algorithm": "[U' E' R: [E, R2]]"
+  },
+  {
+    "id": 398,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "DF",
+    "algorithm": "[R' F': [R S' R', F2]]"
+  },
+  {
+    "id": 399,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "DB",
+    "algorithm": "[D' R' F: [R S' R', F2]]"
+  },
+  {
+    "id": 400,
+    "buffer": "UF",
+    "second": "DR",
+    "third": "DL",
+    "algorithm": "[U: [L2, S]]"
+  },
+  {
+    "id": 401,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "UB",
+    "algorithm": "[U2, M]"
+  },
+  {
+    "id": 402,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "UR",
+    "algorithm": "[R: [U' R' U, M2]]"
+  },
+  {
+    "id": 403,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "UL",
+    "algorithm": "D' R' U' R U R U R U' R' U' D"
+  },
+  {
+    "id": 404,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "FR",
+    "algorithm": "[U' R U, M2]"
+  },
+  {
+    "id": 405,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "FD",
+    "algorithm": "[D: [S', R F R']]"
+  },
+  {
+    "id": 406,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "FL",
+    "algorithm": "[U L' U', M2]"
+  },
+  {
+    "id": 407,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "LU",
+    "algorithm": "[Lw': [U' L U, M2]]"
+  },
+  {
+    "id": 408,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "LF",
+    "algorithm": "[M': [U' L' U, M2]]"
+  },
+  {
+    "id": 409,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "LD",
+    "algorithm": "[U: [L B' L', S']]"
+  },
+  {
+    "id": 410,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "LB",
+    "algorithm": "[M': [U' L U, M2]]"
+  },
+  {
+    "id": 411,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "BR",
+    "algorithm": "[U' R' U, M2]"
+  },
+  {
+    "id": 412,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "BU",
+    "algorithm": "[U: [Lw U Lw', S]]"
+  },
+  {
+    "id": 413,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "BL",
+    "algorithm": "[U' D' R': [E', R2]]"
+  },
+  {
+    "id": 414,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "RU",
+    "algorithm": "[Rw: [U R' U', M2]]"
+  },
+  {
+    "id": 415,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "RB",
+    "algorithm": "[M': [U R' U', M2]]"
+  },
+  {
+    "id": 416,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "RD",
+    "algorithm": "[U': [R' B R, S]]"
+  },
+  {
+    "id": 417,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "RF",
+    "algorithm": "[M': [U R U', M2]]"
+  },
+  {
+    "id": 418,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "DF",
+    "algorithm": "[M': [U2, M']]"
+  },
+  {
+    "id": 419,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "DR",
+    "algorithm": "[S' Rw: [U R' U', M2]]"
+  },
+  {
+    "id": 420,
+    "buffer": "UF",
+    "second": "DB",
+    "third": "DL",
+    "algorithm": "U' D R D R' D' R' D' R' D R U"
+  },
+  {
+    "id": 421,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "UB",
+    "algorithm": "[U: [L2, S']]"
+  },
+  {
+    "id": 422,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "UR",
+    "algorithm": "L U L' U' L' U' L' U L U"
+  },
+  {
+    "id": 423,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "UL",
+    "algorithm": "[Rw' F' Rw: [S', L2]]"
+  },
+  {
+    "id": 424,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "FR",
+    "algorithm": "[U L': [E', L2]]"
+  },
+  {
+    "id": 425,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "FD",
+    "algorithm": "[U' L F L': [S', L2]]"
+  },
+  {
+    "id": 426,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "FL",
+    "algorithm": "U2 L' U L U L U L' U' L' U"
+  },
+  {
+    "id": 427,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "LU",
+    "algorithm": "[S, L F' L']"
+  },
+  {
+    "id": 428,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "LF",
+    "algorithm": "[U E L': [E', L2]]"
+  },
+  {
+    "id": 429,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "LB",
+    "algorithm": "[Uw L: [E, L2]]"
+  },
+  {
+    "id": 430,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "BD",
+    "algorithm": "[U' R' B R': [S', R2]]"
+  },
+  {
+    "id": 431,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "BR",
+    "algorithm": "[U L: [E, L2]]"
+  },
+  {
+    "id": 432,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "BU",
+    "algorithm": "[Lw: [U L U', M']]"
+  },
+  {
+    "id": 433,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "BL",
+    "algorithm": "L U' L' U' L' U' L U L U"
+  },
+  {
+    "id": 434,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "RU",
+    "algorithm": "[R': [R' S' R, F]]"
+  },
+  {
+    "id": 435,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "RB",
+    "algorithm": "[Uw L': [E', L2]]"
+  },
+  {
+    "id": 436,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "RD",
+    "algorithm": "[S', R F R']"
+  },
+  {
+    "id": 437,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "RF",
+    "algorithm": "[U E L: [E, L2]]"
+  },
+  {
+    "id": 438,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "DF",
+    "algorithm": "[R' F': [R' S' R, F2]]"
+  },
+  {
+    "id": 439,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "DR",
+    "algorithm": "[U': [R2, S']]"
+  },
+  {
+    "id": 440,
+    "buffer": "UF",
+    "second": "DL",
+    "third": "DB",
+    "algorithm": "U' R' D' R D R D R D' R' U D'"
+  }
+]
