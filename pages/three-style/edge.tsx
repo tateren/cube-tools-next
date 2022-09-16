@@ -1,6 +1,7 @@
 import edgeThreeStyles from "../../data/three-style/edge.json";
 import edges from "../../data/edges.json";
 import { useState } from "react";
+import Title from "../../components/title";
 
 const Edge = () => {
   const [buffer, setBuffer] = useState("UF");
@@ -18,6 +19,7 @@ const Edge = () => {
   };
   return (
     <>
+      <Title title="Edge 3-Style" />
       <h1>Edge 3-Style</h1>
       <span className="label-text">Buffer</span>
       <select

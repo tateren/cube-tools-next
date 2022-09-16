@@ -1,6 +1,7 @@
 import cornerThreeStyles from "../../data/three-style/corner.json";
 import corners from "../../data/corners.json";
 import { useState } from "react";
+import Title from "../../components/title";
 
 const Corner = () => {
   const [buffer, setBuffer] = useState("UFR");
@@ -18,6 +19,7 @@ const Corner = () => {
   };
   return (
     <>
+      <Title title="Corner 3-Style" />
       <h1>Corner 3-Style</h1>
       <span className="label-text">Buffer</span>
       <select
