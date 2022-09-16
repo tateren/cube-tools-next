@@ -18,7 +18,7 @@ const Corner = () => {
   };
   return (
     <>
-      <h1>Edge 3-Style</h1>
+      <h1>Corner 3-Style</h1>
       <span className="label-text">Buffer</span>
       <select
         className="select select-bordered"
